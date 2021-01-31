@@ -563,6 +563,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition: 0.3s;
 }
 
+#glavni .glavni-col:hover {
+  transform: scale(1.15);
+}
 
 #glavni .glavni-col:hover .icon {
   background-color: #fff;
